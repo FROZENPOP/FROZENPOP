@@ -38,13 +38,6 @@ A medical Q&A chatbot I built as a summer intern at SciEncephalon AI (2025). It 
 
 Faster summarization for healthcare AI, built with my teammate Arnav in four days at SF Tech Week (October 2026). I did the benchmarks, evaluation and pitch. In our prototype: up to 4.3x faster, with outputs identical to standard decoding.
 
-## Also
-
-🏆 Founded and coached a middle-school girls' ACSL team to 1st in the state (Elementary Division)<br>
-🤖 Cofounded my high school's AI club and taught machine learning lectures<br>
-📚 Fall 2026 classes: CS 61A, Data C8, Math 54<br>
-🧗 Outside of code: bouldering, piano and sketching. Lifetime goal: owning an ice cream shop 🍦
-
 <p>
   <a href="https://www.linkedin.com/in/ssindhaval/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
   <a href="mailto:shreyas.sindhaval@berkeley.edu"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
